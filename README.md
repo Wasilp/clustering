@@ -1,13 +1,13 @@
 # Chipotle clustering challenge
 
-!(https://media.giphy.com/media/gJuZSbDxv0zLTMdafV/giphy.gif)
+![You've got this!](https://media.giphy.com/media/gJuZSbDxv0zLTMdafV/giphy.gif)
 
 ## The Mission
 Find Chipotle **epicentres** to live your ideal Chipotle lifestyle by clustering the [Chipotle](chipotle_locations.csv) dataset.
 
 ## Info
 - Deployment :
-	- !(https://github.com/Wasilp/clustering.git)
+	- [github](https://github.com/Wasilp/clustering.git)
 - Team :
 	- Pierre Wasilewski
     - Reza Nasrollahikaran
@@ -19,6 +19,7 @@ Plot the [US map](https://jcutrer.com/python/learn-geopandas-plotting-usmaps)
 
 
 ## Dendrogram helping to decide the appropriate clustering resolution
+
 
 
 ## Visualization of the different clusters
